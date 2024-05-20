@@ -5,6 +5,8 @@
 
 Repository for uploading all extra resources for members enrolled in Simpler Hacking's Advanced Phishing with EvilGoPhish3 Pro Course
 
-The course is available for enrollment at: https://www.simplerhacking.com/pages/evilgophish-course
+This is the 2nd course in the Advanced Phishing series
+
+The course is available for enrollment: https://www.simplerhacking.com/pages/evilgophish-course
 
 
